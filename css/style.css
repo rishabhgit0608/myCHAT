@@ -9,13 +9,13 @@ h3{
     font-size: 1.4rem;
 }  
 body{
-    background: lightgreen;
+    background: darkgreen
     height: 100vh;
 }
 .container{
     max-width: 50%;
     border :2px solid black;
-    background: deepskyblue;
+    background: white
     margin: auto;
     height: 60vh;
     overflow-y: auto;
